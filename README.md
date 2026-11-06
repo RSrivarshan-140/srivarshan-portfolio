@@ -81,5 +81,6 @@ Your portfolio is live and accessible at:
 * **Role**: AI Engineer & Systems Builder
 * **Industry Training**: Core2Cloud Technologies (Registration ID: `C2C-INT26-0081`)
 * **GitHub**: [@RSrivarshan-140](https://github.com/RSrivarshan-140)
+* **Instagram**: [@var_shan__23](https://www.instagram.com/var_shan__23/)
 * **Flagship Repo**: [RSrivarshan-140/reseach-analyzer](https://github.com/RSrivarshan-140/reseach-analyzer)
 * **Email**: [RSrivarshan-140@users.noreply.github.com](mailto:RSrivarshan-140@users.noreply.github.com)
